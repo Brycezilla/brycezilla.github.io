@@ -4,6 +4,8 @@ title: "About"
 
 About this site
 
+image0.png
+
 ```{r}
 1 + 1
 ```

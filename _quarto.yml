@@ -3,7 +3,8 @@ project:
   output-dir: docs
 
 website:
-  title: "brycezilla.github.io"
+  title: "brycezilla"
+  favicon: image0.jpg
   navbar:
     left:
       - href: index.qmd
