@@ -1,5 +1,5 @@
 ---
-title: "brycezilla"
+title: "Bryce Curson"
 image: img/image0.jpg
 about: 
   template: trestles
@@ -13,4 +13,3 @@ Resume:
 ---
 
 This is my website and nothing less!
-
