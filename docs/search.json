@@ -4,13 +4,20 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "image0.png\n\n1 + 1\n\n[1] 2"
+    "text": "My name is Bryce Curson. I am 25 years old and am currently enrolled at California State University Channel Islands as a Computer Science Major. I have an Assossiates degree for Computer Science from Moorpark College.\nWork Experience: Walmart cashier\n             Target Ship from store\n             \nI have experience with the following languages:\nC++\nJava\nPython\nHTML\nNASM Assembly\nR"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "brycezilla",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is my website and nothing less!"
+  },
+  {
+    "objectID": "Resume.html",
+    "href": "Resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Target Ship from store\nI have experience with the following languages:\nC++\nJava\nPython\nHTML\nNASM Assembly\nR"
   }
 ]
