@@ -2,26 +2,6 @@
 title: "About"
 ---
 
-About this site
+About me:
 
-My name is Bryce Curson. I am 25 years old and am currently enrolled at California State University Channel Islands as a Computer Science Major. I have an Assossiates degree for Computer Science from Moorpark College. 
-
-Work Experience: Walmart cashier
-
-                 Target Ship from store
-                 
-I have experience with the following languages:
-
-C++
-
-Java
-
-Python
-
-HTML
-
-NASM Assembly
-
-R
-
-
+My name is Bryce Curson. I am 25 years old and am currently enrolled at California State University Channel Islands as a Computer Science Major. I have an Assossiates degree for Computer Science from Moorpark College. I am low key poggers, no cap.
