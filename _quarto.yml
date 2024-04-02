@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "brycezilla"
+  title: "Bryce Curson"
   image: image0.jpg
   favicon: image0.jpg
   navbar:
